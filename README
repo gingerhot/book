@@ -1,14 +1,23 @@
 We are writing a book about Perl 6.
 
+我们正在写一本 Perl 6 的书。
+
 It will be some kind of example-driven introduction to Perl 6, and at
 the same time showing off the reasons why we love that language.
 
+这本书将采用以实例为引导的形式，同时展现我们喜爱这门语言的因由。
+
 We plan to have monthly releases, see docs/release-guide.pod
+
+我们计划每月更新，参见 docs/release-guide.pod （文档/更新指南）。
 
 "We" are Carl Mäsak, Jonathan Worthington, Patrick Michaud, Moritz
 Lenz, Jonathan Scott Duff (Scott) and anybody who's willing to work on
 it.  If you're not on that list yet, you're still very welcome to join
 us.
+
+“我们”包括 Carl Mäsak, Jonathan Worthington, Patrick Michaud, Moritz
+Lenz, Jonathan Scott Duff (Scott)，还有所有愿意为它付出的人们。如果你尚未在此列表，仍旧非常之欢迎你的加入。
 
 You can find us on #perl6book on irc.freenode.net.  Logs of the IRC
 discussions: <http://irclog.perlgeek.de/perl6book/> (If you do not
