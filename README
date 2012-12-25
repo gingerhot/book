@@ -25,10 +25,15 @@ have an IRC client, you can use a web-based client at
 <http://webchat.freenode.net/?randomnick=1&channels=perl6book&prompt=1>
 )
 
+你可以在 irc.freenode.net 的 #perl6book 上找到我们。IRC 谈论的记录在：<http://irclog.perlgeek.de/perl6book/> (如果你没有安装 IRC 客户端，你可以使用一个基于 web 的客户端：<http://webchat.freenode.net/?randomnick=1&channels=perl6book&prompt=1>
+)
+
 To build the PDF version of this book, you need to have the following
 software installed (for HTML output only, the first section of the prereqs
 is enough; 'make html' will be your friend):
 
+如果想制作本书的 PDF 版本，你需要安装下列软件（如果只是想输出 HTML，有第一部分即可。 ‘make html' 将是你的良友）：
+    
     * GNU make
     * perl 5.10
     * the Perl 5 modules:
@@ -52,12 +57,19 @@ is enough; 'make html' will be your friend):
 The book is produced from src/*.pod chapters ultimately rendered into
 dist/*.pdf using bin/* and lib/* files.
 
+本书内容来自 src/*.pod 的章节，使用 bin/* 和 lib/* 下的程序最终生成到 dist/*.pdf 。
+
 Just type 'make' on your command line, and the book should be built in
 dist/UsingPerl6.a4.pdf, with an A4 paper size; to get U.S. letter
 size, type 'make PAPER=letter'. To get any PAPER width and height type
 'make PAPER=6.125in,9.25in'; accepted length units are pt, in, cm and mm.
 
+只需在命令行敲下 'make' 然后本书就创建到 dist/UsingPerl6.a4.pdf ，默认 A4 纸大小。若要 U.S. letter 大小的页面，就输 'make PAPER=letter'。 
+
 PDF versions of this book can be found at 
+http://puffin.ch/perl/6/ and http://github.com/perl6/book/downloads
+
+本书 PDF 版本：
 http://puffin.ch/perl/6/ and http://github.com/perl6/book/downloads
 
 All material in this repository is licensed under a CC-by-nc-sa
@@ -67,3 +79,6 @@ otherwise.
 
 (Maybe we'll open up towards removing the noncommercial part at some
 point).
+
+本资源库的所有内容遵循 CC-by-nc-sa 许可：<http://creativecommons.org/licenses/by-nc-sa/2.5/>
+（出处归属，非商业，版权继承），有明确声明的除外。
