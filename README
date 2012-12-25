@@ -17,7 +17,8 @@ it.  If you're not on that list yet, you're still very welcome to join
 us.
 
 “我们”包括 Carl Mäsak, Jonathan Worthington, Patrick Michaud, Moritz
-Lenz, Jonathan Scott Duff (Scott)，还有所有愿意为它付出的人们。如果你尚未在此列表，仍旧非常之欢迎你的加入。
+Lenz, Jonathan Scott Duff (Scott)，还有所有愿意为它付出的人们。如果你尚未在此列表，
+仍旧非常之欢迎你的加入。
 
 You can find us on #perl6book on irc.freenode.net.  Logs of the IRC
 discussions: <http://irclog.perlgeek.de/perl6book/> (If you do not
@@ -25,7 +26,9 @@ have an IRC client, you can use a web-based client at
 <http://webchat.freenode.net/?randomnick=1&channels=perl6book&prompt=1>
 )
 
-你可以在 irc.freenode.net 的 #perl6book 上找到我们。IRC 谈论的记录在：<http://irclog.perlgeek.de/perl6book/> (如果你没有安装 IRC 客户端，你可以使用一个基于 web 的客户端：<http://webchat.freenode.net/?randomnick=1&channels=perl6book&prompt=1>
+你可以在 irc.freenode.net 的 #perl6book 上找到我们。IRC 谈论的记录在：
+<http://irclog.perlgeek.de/perl6book/> (如果你没有安装 IRC 客户端，你可以使用一个
+基于 web 的客户端：<http://webchat.freenode.net/?randomnick=1&channels=perl6book&prompt=1>
 )
 
 To build the PDF version of this book, you need to have the following
@@ -64,7 +67,9 @@ dist/UsingPerl6.a4.pdf, with an A4 paper size; to get U.S. letter
 size, type 'make PAPER=letter'. To get any PAPER width and height type
 'make PAPER=6.125in,9.25in'; accepted length units are pt, in, cm and mm.
 
-只需在命令行敲下 'make' 然后本书就创建到 dist/UsingPerl6.a4.pdf ，默认 A4 纸大小。若要 U.S. letter 大小的页面，就输 'make PAPER=letter'。想得到任何宽高的 PAPER 只需键入如 'make PAPER=6.125in,9.25in'即可;可接受的长度单位有 pt, in, cm 和 mm。 
+只需在命令行敲下 'make' 然后本书就创建到 dist/UsingPerl6.a4.pdf ，默认 A4 纸大小。若要 U.S. letter 大小的
+页面，就输 'make PAPER=letter'。想得到任何宽高的 PAPER 只需键入如 'make PAPER=6.125in,9.25in'即可;可接受的
+长度单位有 pt, in, cm 和 mm。 
 
 PDF versions of this book can be found at 
 http://puffin.ch/perl/6/ and http://github.com/perl6/book/downloads
