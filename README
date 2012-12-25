@@ -64,7 +64,7 @@ dist/UsingPerl6.a4.pdf, with an A4 paper size; to get U.S. letter
 size, type 'make PAPER=letter'. To get any PAPER width and height type
 'make PAPER=6.125in,9.25in'; accepted length units are pt, in, cm and mm.
 
-只需在命令行敲下 'make' 然后本书就创建到 dist/UsingPerl6.a4.pdf ，默认 A4 纸大小。若要 U.S. letter 大小的页面，就输 'make PAPER=letter'。 
+只需在命令行敲下 'make' 然后本书就创建到 dist/UsingPerl6.a4.pdf ，默认 A4 纸大小。若要 U.S. letter 大小的页面，就输 'make PAPER=letter'。想得到任何宽高的 PAPER 只需键入如 'make PAPER=6.125in,9.25in'即可;可接受的长度单位有 pt, in, cm 和 mm。 
 
 PDF versions of this book can be found at 
 http://puffin.ch/perl/6/ and http://github.com/perl6/book/downloads
