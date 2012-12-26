@@ -9,9 +9,14 @@ contradictions, or features of difficult implementation and little benefit.
 This process of iteration has produced a more cohesive and consistent language
 specification.
 
+Perl 6 是对不同完整性阶段的多个编译器和解释器所做的一个语言规范。
+
 Perl 6 is versatile, intuitive, and flexible.  It embraces several paradigms
 like procedural, object oriented, and functional programming, and offers
 powerful tools for parsing text.
+
+Perl 6 通用、直观且灵活。它兼收过程编程、面向对象及函数式编程等多种范式，同时
+提供了对文本解析的强大工具。
 
 =for author
 
@@ -24,6 +29,8 @@ C<TODO> comments prior to the printing of the book.  We've left them in because
 they might serve as useful cues for the reader as well as for us authors about
 what remains to be done. Even so, we pray the reader's indulgence and
 understanding.
+
+
 
 =head1 Audience
 
