@@ -43,7 +43,7 @@ programming language, though no prior knowledge of Perl is necessary. After
 working through this book, you should have a solid grasp of the basics of Perl
 6 sufficient to solve your own problems with Perl 6.
 
-本书主要是写给那些想学习 Perl 6 的人们。这是一个系列的教程，而非一个综合参考书。你可以没有任何 Perl 的知识，但我们希望你有其它编程语言的经验。读完本书你可以牢固掌握 Perl 6 的基础，可以用它充分解决你自己的问题。
+本书主要是写给那些想学习 Perl 6 的人们。这是一个系列的教程，而不是一本综合参考书。你可以没有任何前置的 Perl 知识，但我们希望你有其它编程语言的经验。读完本书你可以牢固掌握 Perl 6 的基础，用它充分解决你自己的问题。
 
 =head1 Format of this book
 
