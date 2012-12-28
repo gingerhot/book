@@ -10,7 +10,7 @@ This process of iteration has produced a more cohesive and consistent language
 specification.
 
 Perl 6 是对不同完整性的多个编译器和解释器所做的一个语言规范。同时这些实现通过突显不合理的和矛盾的特性，或是艰难实现而徒劳无益的功能，反过来又影响了语言的设计。
-这个迭代的过程已经创造了一个紧密且完整的语言规范。
+这个迭代的过程已经创造了一个紧密且统一的语言规范。
 
 Perl 6 is versatile, intuitive, and flexible.  It embraces several paradigms
 like procedural, object oriented, and functional programming, and offers
