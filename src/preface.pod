@@ -31,15 +31,19 @@ they might serve as useful cues for the reader as well as for us authors about
 what remains to be done. Even so, we pray the reader's indulgence and
 understanding.
 
-
+本书尚在写作之中。在本书付梓之前即使是更新的部分也会包含许多的 C<TODO> 注解。我们对其保留是因为我们想给读者也给我们这些作者以有效的提示：还有哪些没有做。即便如此，我们还是恳请读者们的包容和理解。
 
 =head1 Audience
+
+=head1 本书读者
 
 This book is primarily for people who want to learn Perl 6. It is a series of
 tutorials, not a comprehensive reference.  We expect some experience in another
 programming language, though no prior knowledge of Perl is necessary. After
 working through this book, you should have a solid grasp of the basics of Perl
 6 sufficient to solve your own problems with Perl 6.
+
+本书主要是写给那些想学习 Perl 6 的人们。这是一个系列的教程，而非一个综合参考书。你可以没有任何 Perl 的知识，但我们希望你有其它编程语言的经验。读完本书你可以牢固掌握 Perl 6 的基础，可以用它充分解决你自己的问题。
 
 =head1 Format of this book
 
