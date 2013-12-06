@@ -2,15 +2,16 @@
 
 Z<sec:basics>
 
-Perl originated as a programming language intended to gather and summarize
-information from text files.  It's still strong in text processing, but Perl 5
-is also a powerful general-purpose programming language.  Perl 6 is even better.
+Perl 起初是为了从文本文件中收集和提取信息之用，目前在文本处理方面依然很给力。
+同时 Perl 5 还是一门卓越的通用编程语言。 Perl 6 则会更完美。
 
 Suppose that you host a table tennis tournament.  The referees tell you the
 results of each game in the format C<Player1 Player2 | 3:2>, which means
 that C<Player1> won against C<Player2> by 3 to 2 sets. You need a script that
 sums up how many matches and sets each player has won to determine the overall
 winner.
+
+假如你正在负责主办一场乒乓球联赛。
 
 The input data (stored in a file called "scores") looks like this:
 
